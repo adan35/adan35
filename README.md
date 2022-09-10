@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adan35
-- 👀 I’m interested in python programming, AI, ML, data science and deep learning
-- 🌱 I’m currently doing BSCS
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in competitive programming, Data Science, AI, ML, and DL
+- 🌱 I’m graduated from PUCIT in BSCS
+- 💞️ I’m looking to collaborate on good projects
 - 📫 Reach me through adanshahzad35@gmail.com
 
 <!---
